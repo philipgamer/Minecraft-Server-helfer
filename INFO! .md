@@ -7,4 +7,4 @@ Benenne die Datei in server.jar um (alles kleingeschrieben).
 
 Lege sie in dann die Server.jar in den server Ordner 
 ---
-sorry! wir mit ein update gefixt!
+sorry! wird mit ein update gefixt!
