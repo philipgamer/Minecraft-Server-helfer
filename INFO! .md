@@ -1,4 +1,4 @@
-#⚠️ Wichtiger Hinweis zur Installation
+# ⚠️ Wichtiger Hinweis zur Installation
 **Damit der Server korrekt starten kann, musst du die heruntergeladene Server-Datei (z. B. von PaperMC) zwingend umbenennen:**
 
 Lade die Server-Datei herunter.
