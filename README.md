@@ -1,3 +1,6 @@
+![Version](https://img.shields.io/badge/Version-0.1.1-black)
+![Language](https://img.shields.io/badge/Language-C%23-blue)
+![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-orange)
 # 🛠️ Minecraft Server Helfer | V0.1.1
 
 **Minecraft Server helfer** ist mein selbst geschriebener Code. Es ist nichts Weltbewegendes, hilft dir aber dabei, einen Minecraft-Server ganz einfach zu erstellen.
