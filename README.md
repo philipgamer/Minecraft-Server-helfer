@@ -24,3 +24,10 @@ Feedback ist immer willkommen. :)
 > **Ansonsten starte der server nicht und gibt den Fehler 'Unable to access jarfile paper.jar' aus**
 
 *Sorry! Das wird in einem kommenden Update automatisch gefixt!* 🛠️
+
+---
+## 💻 Entwickelt mit
+
+* **C# / .NET** - Für die Logik und das UI
+* **Visual Studio 2022** - Die Schmiede des Codes
+* **PaperMC API** - (Bald verfügbar!)
