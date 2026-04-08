@@ -1,4 +1,4 @@
-# 🛠️ Minecraft Server Helfer | V.0.1.1
+# 🛠️ Minecraft Server Helfer | V0.1.1
 
 **Minecraft Server helfer** ist mein selbst geschriebener Code. Es ist nichts Weltbewegendes, hilft dir aber dabei, einen Minecraft-Server ganz einfach zu erstellen.
 
