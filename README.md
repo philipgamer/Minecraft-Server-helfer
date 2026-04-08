@@ -14,6 +14,7 @@
 **Gern runterladen und testen!**
 Feedback ist immer willkommen. :)
 
+👉 [Hier geht's zu den häufigen Fragen (FAQ)](FAQ.md)
 
 ---
 # ⚠️ Wichtiger Hinweis zur Installation
