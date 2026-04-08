@@ -3,7 +3,7 @@
 **Minecraft Server helfer** ist mein selbst geschriebener Code. Es ist nichts Weltbewegendes, hilft dir aber dabei, einen Minecraft-Server ganz einfach zu erstellen.
 
 ### Was das Tool macht:
-* Erstellt auf dem Desktop einen Ordner
+* Erstellt auf dem Desktop einen Server-Ordner
 * Akzeptiert automatisch die eula
 * erstellt automatisch eine Start.bat datei (um den server dann starten zu können!)
 
