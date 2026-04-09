@@ -31,3 +31,13 @@ Feedback ist immer willkommen. :)
 * **C# / .NET** - Für die Logik und das UI
 * **Visual Studio 2022** - Die Schmiede des Codes
 * **PaperMC API** - (Bald verfügbar!)
+
+---
+# Über mich
+Ich bin Philip und noch ein Neuling im Bereich Programmieren.
+
+- Aktuell nutze ich viel Unterstützung durch KI, um meine Programme zu erstellen (Stichwort: "Vibe Coding"). 
+- Was mich aber unterscheidet: Ich will nicht nur kopieren, sondern wirklich verstehen, wie es funktioniert. 
+- Ich arbeite hart daran, mir C# Schritt für Schritt selbst beizubringen.
+
+---
