@@ -9,6 +9,7 @@
 * Erstellt auf dem Desktop einen Server-Ordner
 * Akzeptiert automatisch die eula
 * erstellt automatisch eine Start.bat datei (um den server dann starten zu können!)
+* ladet automatisch die neuste Paper-Server datei runter und Packt die in den Ordner
 
 ---
 **Gern runterladen und testen!**
