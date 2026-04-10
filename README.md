@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/Version-0.1.1-black)
+![Version](https://img.shields.io/badge/Version-0.1.2-black)
 ![Language](https://img.shields.io/badge/Language-C%23-blue)
 ![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-orange)
 # 🛠️ Minecraft Server Helfer | V0.1.1
