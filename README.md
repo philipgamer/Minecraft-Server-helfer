@@ -30,7 +30,6 @@ Feedback ist immer willkommen. :)
 
 * **C# / .NET** - Für die Logik und das UI
 * **Visual Studio 2022** - Die Schmiede des Codes
-* **PaperMC API** - (Bald verfügbar!)
 
 ---
 # Über mich
