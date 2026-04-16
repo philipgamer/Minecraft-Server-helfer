@@ -18,15 +18,6 @@ Feedback ist immer willkommen. :)
 👉 [Hier geht's zu den häufigen Fragen (FAQ)](FAQ.md)
 
 ---
-# ⚠️ Wichtiger Hinweis zur Installation
-
-> [!CAUTION]
-> **Ihr müsst die heruntergeladene Server-Datei in 'paper.jar' umbenennen!**
-> **Ansonsten starte der server nicht und gibt den Fehler 'Unable to access jarfile paper.jar' aus**
-
-*Sorry! Das wird in einem kommenden Update automatisch gefixt!* 🛠️
-
----
 ## 💻 Entwickelt mit
 
 * **C# / .NET** - Für die Logik und das UI
